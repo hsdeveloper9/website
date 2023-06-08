@@ -1,12 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=MonteCarlo&family=Tilt+Prism&family=Ubuntu:ital,wght@0,300;1,400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=MonteCarlo&family=Ubuntu:ital,wght@0,300;1,400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monomaniac+One&display=swap');
 * {
     margin: 0;
     padding: 0;
 }
 body{
     /* background: rgba(32 ,9,28 ,380); */
+        font-family: 'Monomaniac One', sans-serif;
 }
 html{
     scroll-behavior: smooth;
@@ -31,6 +33,8 @@ html{
     position: sticky;
     top: 0;
     cursor: pointer;
+        height: 65px;
+
 }
 
 .back12{
