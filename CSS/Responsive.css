@@ -44,9 +44,12 @@
         flex-direction: column;
     }
     .navbar{
-        height: 315px;
+        height: 44vh;
         flex-direction: column;
-        transition: all 0.5s ;
+        z-index: 2;
+        transition: all 0.5s ease-in-out;
+        position: fixed;
+        width: 100vw;
     }
     .rightnav{
         text-align: center;
