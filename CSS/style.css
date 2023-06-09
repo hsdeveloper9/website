@@ -8,7 +8,7 @@
 }
 body{
     /* background: rgba(32 ,9,28 ,380); */
-        font-family: 'Monomaniac One', sans-serif;
+    font-family: 'Monomaniac One', sans-serif;
 }
 html{
     scroll-behavior: smooth;
@@ -21,7 +21,7 @@ html{
 }
 
 .logo img {
-    width: 33%;
+    width: 28%;
     border: 3px solid white;
     border-radius: 50px;
 }
@@ -33,7 +33,7 @@ html{
     position: sticky;
     top: 0;
     cursor: pointer;
-        height: 65px;
+    height: 65px;
 
 }
 
